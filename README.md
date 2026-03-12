@@ -1,2 +1,4 @@
-# tour-guide-reservations
-Tour guide Corfu
+
+# Tour Guide Weekly Reservation (PHP/MySQL)
+
+Includes login, role-based access, calendars, overlap checks, and **user management page**.
